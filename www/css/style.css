@@ -66,6 +66,11 @@
     }
     
     input[type=number] {text-align: right;}
+
     body{
         background: skyblue
+    }
+
+    button{
+        color: blue
     }
